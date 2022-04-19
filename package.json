@@ -4,7 +4,8 @@
   "description": "how to send and email with nodemailer",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon --exec babel-node src/index.js",
+    "start": " babel-node src/index.js",
+    "dev": "nodemon --exec babel-node src/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Victoria Coronado",
