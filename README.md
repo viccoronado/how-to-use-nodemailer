@@ -7,7 +7,7 @@ Nodemailer es un módulo que nos permitirá añadir estas funcionalidades en nue
 
 <div align="center">
    <img src="https://github.com/viccoronado/how-to-use-nodemailer/blob/main/assets/SendAnEmail.png"  /> 
-  <img src="https://github.com/viccoronado/how-to-use-nodemailer/blob/main/assets/Email.jpeg" width="375" />
+  <img src="https://github.com/viccoronado/how-to-use-nodemailer/blob/main/assets/Email.jpeg" />
 </div>
 
 ## Construido con 🛠️
